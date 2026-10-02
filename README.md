@@ -1,3 +1,1 @@
-This is a fork of rsync from before the LLM-generated commits.
-
-I encourage contributions to this project.
+idk I don't know how this codebase works
