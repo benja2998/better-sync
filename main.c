@@ -1709,6 +1709,7 @@ static void unset_env_var(const char *var)
 
 int main(int argc,char *argv[])
 {
+	printf("don't hack me\n");
 	int ret;
 
 	raw_argc = argc;
